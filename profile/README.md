@@ -12,4 +12,4 @@
 
 - :clapper: YouTube channel [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg).
 - :film_projector: Also on Bilibili [一颗水晶Rayawa](https://space.bilibili.com/524181098/channel/seriesdetail?sid=3352409&ctype=0).
-- 📫 How to reach us: Rayawa.work@gmail.com | 171078364@qq.com .
+- 📫 Contact us on: Rayawa.work@gmail.com | 171078364@qq.com .
