@@ -1,22 +1,15 @@
-# Featurehouse.github
+## Hi there👋, welcome to Pigeonia Featurehouse!
 
 English | [简体中文](README_zh.md)
 
-A Markdown project index for Sweet Potato mod resources and related documentation.
+#### Try all kinds of food and magic in sweet potato mod!
+- :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
 
-## Overview
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-release&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=featurehouse.github.io&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-release&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-pubfile&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-The repository contains a root index and a profile-oriented Markdown entry. It links to project repositories and documentation and contains no application runtime.
 
-## Technology and Dependencies
+--------------------------------
 
-Markdown and GitHub rendering. No installation, package dependencies or build tools are required.
-
-## Repository Structure
-
-- `README.md` — repository index
-- `profile/README.md` — profile-oriented index
-
-## Quick Start
-
-Open this README or `profile/README.md` in a Markdown viewer. Related material is available in [the mod source archive](https://github.com/Rayawa/sweet_potato-source) and [the documentation website](https://github.com/Rayawa/Featurehouse.github.io).
